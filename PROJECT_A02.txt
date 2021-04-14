@@ -1,0 +1,11 @@
+REQUIRES android-games.csv
+
+This is a dataset of top 100 games of each category of games on Google Play Store along with their ratings and other data like price and number of installs.
+Data as of April 9, 2021.
+1.	Find the exact number of games with the highest ratings  
+2.	Plot a graph showing from lowest to highest games installed in acceding order with their ratings
+3.	Find the total number of games downloaded and installed in 2019
+4.	Create a chart showing the rankings in a particular category
+5.	Show the percentage of games that got a 5star rating
+6.	Get the percentage growth of games in 60 and 30 days
+7.	Outline the 5 top games that got the highest rating and a 5star rating
