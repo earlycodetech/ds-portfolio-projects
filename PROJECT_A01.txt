@@ -2,7 +2,7 @@ REQUIRES StudentsPerformance.csv
 
 This data set consists of the marks secured by the students in various subjects.
 
-1.	Plot a graph showing the age and score in the math test for the male students in the group A at some 
+1.	Plot a graph showing the parental level of education and score in the math test for the male students in the group A at some 
     college with standard lunch.
 2.	Determine the percentage of both male and female in the C and D group
 3.	Plot a graph showing the highest math score of both gender in all groups
