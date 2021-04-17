@@ -1,0 +1,18 @@
+REQUIRES world-happiness-report-2021.csv
+
+You are expected to get a summarized happiness level for each country by combining all of the individual happiness categories(Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Explained by: Freedom to make life choices,Explained by: Generosity,Explained by: Perceptions of corruption).
+
+Use the summarized happiness level to find solutions for the following.
+
+1. What is Nigeria's position in the world happiness ranking.
+
+2. Using an appropriate chart, compare Nigeria and United State's level of happiness.
+
+2. What 3 attributes would you suggest to have the most influence on the summarized happiness level?
+Please show a linear model chart for each of these labels to proof their strong influence on summarized happiness level.
+
+3. We want to know to predict how the happiness level of any given country would change with varying Ladder score, Standard error of ladder score, upperwhisker, lowerwhisker, Logged GDP per capita, Social support, Healthy life expectancy,Freedom to make life choices, Generosity, Perceptions of corruption, Ladder score in Dystopia.
+Note: Please give a short explanation (written as a comment) for your choice classifier used to develop your model.
+
+4. How happy would Nigeria be based on the following attribute scores (Ladder score=0.7.591, Standard error of ladder score=0.043, upperwhisker=7.7, lowerwhisker=7.523, Logged GDP per capita=10.910, Social support0.901, Healthy life expectancy=72.001,Freedom to make life choices=0.951, Generosity=0.101, Perceptions of corruption=0.177, Ladder score in Dystopia=2.430)
+
