@@ -1,0 +1,16 @@
+REQUIRES loan_test.csv and loan_train.csv
+
+Explore through the dataset. 
+There are various missing data (no option of droping them). You have fill them, i.e decide what to fill them with.
+
+1. Perform Exploratory Data Analysis on the dataset to check how the following against the loan status
+a. Gender
+b. Married
+c. Sel-employed
+d. Credit history
+e. Property-Area
+f. Loan amount
+
+2. Develop a model to predict the dataset, to check how the independent variables affect the dependent variable.
+
+3. If your prediction score is not up to 0.78, review how you filled the missing fields and adopt a better approach to to filled them again to give you a prediction score of 0.78 or above.
