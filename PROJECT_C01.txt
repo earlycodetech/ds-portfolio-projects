@@ -13,4 +13,5 @@ f. Loan amount
 
 2. Develop a model to predict the dataset, to check how the independent variables affect the dependent variable.
 
-3. If your prediction score is not up to 0.78, review how you filled the missing fields and adopt a better approach to to filled them again to give you a prediction score of 0.78 or above.
+3. If your prediction score is not up to 0.78, review how you filled the missing fields and adopt a better approach 
+to filled them again to give you a prediction score of 0.78 or above.
